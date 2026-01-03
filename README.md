@@ -24,7 +24,6 @@ RDCManUtil.ps1
       passwords.  Keep these files secured.
 
    - Move the *.rdg.dec files to the RDC Manager Sites Folder of the new computer.
-   - Copy this ps1 script to the new computer.
    - Set $directoryPath to the RDC Manager Sites Folder of the new computer.
    - Make sure the RDC Manager Sites Folder of the new computer does not contain any
       *.rdg files. If *.rdg files exist, it will go into the decrypt mode instead of the
